@@ -1,5 +1,6 @@
 Bandit
 
+<<<<<<< HEAD
 The Bandit wargame is aimed at absolute beginners. It will teach the basics needed to be able to play other wargames.
 
 
@@ -17,3 +18,6 @@ There are several things you can try when you are unsure how to continue:
 
 Note for VMs: You may fail to connect to overthewire.org via SSH with a “broken pipe error” when the network adapter for the VM is configured to use NAT mode. Adding the setting IPQoS throughput to /etc/ssh/ssh_config should resolve the issue. If this does not solve your issue, the only option then is to change the adapter to Bridged mode.
 
+=======
+The Bandit wargame is aimed at absolute beginners. It will teach the basics needed to be able to play other wargames. 
+>>>>>>> b7b3f0a1776d1973dfd477519d9f2160d3769a76
