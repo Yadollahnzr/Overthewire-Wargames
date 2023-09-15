@@ -21,7 +21,7 @@ bandit2@bandit:~$ ls
 spaces in this filename
 
 ```
-To read a file that inside it's name has spaces must use "". If use cat command as ` cat spaces in this filename ` shell think you want to cat multiple files and don't know the spaces in this filename is the one filename. So use below code to read the file and get the password.
+To read a file that inside it's name has spaces must use double quotation. If use cat command as ` cat spaces in this filename ` shell think you want to cat multiple files and don't know the spaces in this filename is the one filename. So use below code to read the file and get the password.
 ```
 
 bandit2@bandit:~$ cat "spaces in this filename"
