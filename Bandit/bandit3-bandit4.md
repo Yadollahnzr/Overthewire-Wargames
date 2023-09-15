@@ -11,7 +11,7 @@ At first you must connect to the game server by bandit3 username.
 ssh bandit3@bandit.labs.overthewire.org -p 2220
 
 ```
-After login, now you are is home directory. If use ` ls ` command to see there is a directory that's name is inhere. As stated in level goal, the password is in a hidden file in 'inhere' directory. so need to go to the inhere directory. For this purpose you need use ` cd `. 
+After login, now you are is home directory. If use ` ls ` command you see there is a directory that's name is inhere. As stated in level goal, the password is in a hidden file in 'inhere' directory. so need to go to the inhere directory. For this purpose you need use ` cd `. 
 ```
 
 bandit3@bandit:~$ cd inhere
