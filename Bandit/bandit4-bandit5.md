@@ -64,9 +64,9 @@ There are three type of files.
 
 1. If file tells you “Non-ISO extended-ASCII text” because it detects that this is:
 
-   - * most likely a “text” file from the lack of control characters (byte values 0–31) other than line breaks;
-   - - “extended-ASCII” because there are characters outside the ASCII range (byte values ≥128);
-   - + “non-ISO” because there are characters in the 128–159 range (ISO 8859 reserves this range for control characters).
+   - most likely a “text” file from the lack of control characters (byte values 0–31) other than line breaks;
+   - “extended-ASCII” because there are characters outside the ASCII range (byte values ≥128);
+   - “non-ISO” because there are characters in the 128–159 range (ISO 8859 reserves this range for control characters).
 
 The last step is read the ./-file07 that is you found out it is human readable.
 ```
