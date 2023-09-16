@@ -56,15 +56,17 @@ bandit4@bandit:~/inhere$ file ./*
 ./-file09: Non-ISO extended-ASCII text, with no line terminators
 
 ```
-There are three type of files.**'Data'** file type is binary file and not human readable.
+There are three type of files.
 
-**'ASCII text'** is what we were looking for. 
+1. **'Data'** file type is binary file and not human readable.
 
-If file tells you “Non-ISO extended-ASCII text” because it detects that this is:
+1. **'ASCII text'** is what we were looking for. 
 
-* most likely a “text” file from the lack of control characters (byte values 0–31) other than line breaks;
-- “extended-ASCII” because there are characters outside the ASCII range (byte values ≥128);
-+ “non-ISO” because there are characters in the 128–159 range (ISO 8859 reserves this range for control characters).
+1. If file tells you “Non-ISO extended-ASCII text” because it detects that this is:
+
+   - * most likely a “text” file from the lack of control characters (byte values 0–31) other than line breaks;
+   - - “extended-ASCII” because there are characters outside the ASCII range (byte values ≥128);
+   - + “non-ISO” because there are characters in the 128–159 range (ISO 8859 reserves this range for control characters).
 
 The last step is read the ./-file07 that is you found out it is human readable.
 ```
