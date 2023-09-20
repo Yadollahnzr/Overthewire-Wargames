@@ -6,7 +6,7 @@ The password for the next level is stored in a file called spaces in this filena
 
 > Helpful Reading Material: [Google Search for “spaces in filename”](https://www.google.com/search?q=spaces+in+filename)
 
-## Sulotion
+## Solution
 First using below command to connect to the game server. 
 ```
 

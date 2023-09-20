@@ -7,7 +7,7 @@ The password for the next level is stored in a file called - located in the home
 
 > Helpful Reading Material: [Google Search for “dashed filename”](https://www.google.com/search?q=dashed+filename) , [Advanced Bash-scripting Guide - Chapter 3 - Special Characters](http://tldp.org/LDP/abs/html/special-chars.html)
 
-## Sulotion
+## Solution
 
 First you must connect to the game server with user bandit1 and the password that find in the previous level.
 ```

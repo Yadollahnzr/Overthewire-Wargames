@@ -5,7 +5,7 @@ The password for the next level is stored in a file called readme located in the
 
 > Commands you may need to solve this level: ls , cd , cat , file , du , find
 
-## Sulotion
+## Solution
 You need first connect to the game server. This concept discussed in [bandit0.md](Bandit/bandit0.md). You can use below command to connect to the server.
 
 ```

@@ -4,7 +4,7 @@ The password for the next level is stored in the only human-readable file in the
 
 > Commands you may need to solve this leve: ls , cd , cat , file , du , find
 
-## Sulotion
+## Solution
 In computing, a **human-readable medium** or **human-readable format** is any encoding of data or information that can be naturally read by humans, resulting in **human-readable data**. It is often encoded as ASCII or Unicode text, rather than as binary data.
 
 **_Now, How can determine file type?_**

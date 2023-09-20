@@ -8,7 +8,7 @@ not executable
 
 > Commands you may need to solve this level: ls , cd , cat , file , du , find
 
-## Sulotion
+## Solution
 For connecting to the server use below command.
 ```
 
